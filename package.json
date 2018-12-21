@@ -1,0 +1,19 @@
+{
+  "name": "employee_attendance",
+  "version": "1.0.0",
+  "description": "registering employee attendance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rupendra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "moment": "^2.23.0",
+    "moment-timezone": "^0.5.23",
+    "mongoose": "^5.4.0",
+    "request": "^2.88.0"
+  }
+}
